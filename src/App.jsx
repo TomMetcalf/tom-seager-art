@@ -4,7 +4,10 @@ function App() {
   return (
     <>
       <h1>art.tom-seager.com</h1>
-      <h2>The Home of Tom Seager Art</h2>
+      <h2>
+        <span className="first-line">The Home of </span>
+        <span className="second-line">Tom Seager Art</span>
+      </h2>
       <p>Site currently under construction.</p>
       <p>Please check back for future updates.</p>
       <section className="siteLinks">
