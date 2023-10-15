@@ -25,13 +25,22 @@
 }
 
 .instagram-icon {
-  color: white; 
+  color: white;
   font-size: 50px;
 }
 
 @media (max-width: 600px) {
   .web-address {
     font-size: 30px;
+  }
+
+  .social-links {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .social-items {
+    margin: 10px 0;
   }
 }
 
@@ -49,13 +58,4 @@
   .siteLinkStyle {
     font-size: 14px;
   }
-
-  .social-links {
-  display: flex;
-  flex-direction: column;
-}
-
-.social-items {
-  margin: 10px 0;
-}
 }
