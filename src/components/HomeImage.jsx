@@ -8,10 +8,6 @@ export default function HomeImage() {
         src={stillImage}
         alt="Black outline of surfer on a white background"
       />
-      <br />
-      <a href="./surfer-ar.html" target="_blank">
-        Launch Camera
-      </a>
     </section>
   );
 }
