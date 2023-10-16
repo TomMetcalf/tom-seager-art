@@ -29,6 +29,12 @@
   font-size: 50px;
 }
 
+.home-image {
+  width: 70%;
+  border-radius: 10px;
+  margin: 30px 0;
+}
+
 @media (max-width: 600px) {
   .web-address {
     font-size: 30px;
@@ -41,6 +47,10 @@
 
   .social-items {
     margin: 10px 0;
+  }
+
+  .home-image {
+    width: 80%;
   }
 }
 
@@ -57,5 +67,9 @@
 
   .siteLinkStyle {
     font-size: 14px;
+  }
+
+  .home-image {
+    width: 90%;
   }
 }

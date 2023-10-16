@@ -1,4 +1,5 @@
 import './App.css';
+import HomeImage from './components/HomeImage';
 import SiteLinks from './components/SiteLinks';
 import SocialLinks from './components/SocialLinks';
 import UnderConstructionText from './components/UnderConstructionText';
@@ -11,6 +12,7 @@ function App() {
       <UnderConstructionText />
       <SiteLinks />
       <SocialLinks />
+      <HomeImage />
     </>
   );
 }
