@@ -9,7 +9,7 @@ export default function HomeImage() {
         alt="Black outline of surfer on a white background"
       />
       <br />
-      <a href="https://art.tom-seager.com/surfer-ar.html" target="_blank">
+      <a href="./surfer-ar.html" target="_blank">
         Launch Camera
       </a>
     </section>
